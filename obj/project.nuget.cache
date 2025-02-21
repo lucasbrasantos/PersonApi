@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/w1JgyYarQ4=",
+  "dgSpecHash": "IZ+nHlCKrWo=",
   "success": true,
-  "projectFilePath": "X:\\-code-\\c#\\Person\\Person.csproj",
+  "projectFilePath": "X:\\-code-\\c#\\PersonApi\\Person.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas Braga Santos\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lucas Braga Santos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\-code-\\c#\\Person\\Person.csproj": {}
+    "X:\\-code-\\c#\\PersonApi\\Person.csproj": {}
   },
   "projects": {
-    "X:\\-code-\\c#\\Person\\Person.csproj": {
+    "X:\\-code-\\c#\\PersonApi\\Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\-code-\\c#\\Person\\Person.csproj",
+        "projectUniqueName": "X:\\-code-\\c#\\PersonApi\\Person.csproj",
         "projectName": "Person",
-        "projectPath": "X:\\-code-\\c#\\Person\\Person.csproj",
+        "projectPath": "X:\\-code-\\c#\\PersonApi\\Person.csproj",
         "packagesPath": "C:\\Users\\Lucas Braga Santos\\.nuget\\packages\\",
-        "outputPath": "X:\\-code-\\c#\\Person\\obj\\",
+        "outputPath": "X:\\-code-\\c#\\PersonApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas Braga Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
